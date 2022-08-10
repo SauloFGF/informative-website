@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "Animais Fantasticos",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Animais Fantasticos"
+  }
+}
